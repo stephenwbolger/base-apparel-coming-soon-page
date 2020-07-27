@@ -88,6 +88,7 @@ form input[type="email"] { /*email input*/
 	color:rgba(66, 58, 58, 1);
 	border:none;
 	flex:1;
+	background:transparent;
 }
 form input[type="email"]::placeholder { /*email input placeholder text*/
 	color:rgba(206, 152, 152, .5);
