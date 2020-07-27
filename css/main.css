@@ -165,7 +165,7 @@ form.error .email-error-msg {
 	form {
 		max-width:445px;
 	}
-	form .email {
+	form .emailcontainer {
 		height:56px;
 	}
 	form .error-icon {
